@@ -11,9 +11,12 @@
 تأكد من تثبيت مكتبة Pygame على جهازك عبر الأمر التالي:
 
 Bash: pip install pygame
+
 2-تشغيل اللعبة:
 
+
 قم بتشغيل الملف الرئيسي:
+
 Bash: python game.py
 
 
